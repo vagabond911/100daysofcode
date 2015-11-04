@@ -1,0 +1,10 @@
+body {
+    font-family: helvetica, arial, verdana, sans-serif;
+}
+
+.counterbox {
+		/* basics */
+	background-color: #444;
+	color: #C4BE92;
+    text-align: center;
+}
